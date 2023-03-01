@@ -39,6 +39,11 @@ convenience to restore `dnf` to a functional state that will let you update to 8
    ```shell
    curl -O https://raw.githubusercontent.com/AlmaLinux/almalinux-deploy/master/almalinux-deploy.sh
    ```
+   
+   CDN：    
+   ```shell
+   curl -O https://cdn.jsdelivr.net/gh/AlmaLinux/almalinux-deploy@master/almalinux-deploy.sh
+   ```
 
 4. Run the script and check its output for errors:
 
